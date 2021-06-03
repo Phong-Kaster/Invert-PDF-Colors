@@ -11,32 +11,32 @@ Now , let us go into detail.（￣︶￣）↗　
 4.Make sure that you’re on the Console tab.
 5.Copy the following code and paste it into the console and hit Enter:
 
-var cover = document.createElement("div");
+          var cover = document.createElement("div");
 
-let css = `
+          let css = `
 
-          position: fixed;
+                    position: fixed;
 
-          pointer-events: none;
+                    pointer-events: none;
 
-          top: 0;
+                    top: 0;
 
-          left: 0;
+                    left: 0;
 
-          width: 100vw;
+                    width: 100vw;
 
-          height: 100vh;
+                    height: 100vh;
 
-          background-color: white;
+                    background-color: white;
 
-          mix-blend-mode: difference;
+                    mix-blend-mode: difference;
 
-          z-index: 1;
+                    z-index: 1;
 
-          `
+                    `
 
-cover.setAttribute("style", css);
+          cover.setAttribute("style", css);
 
-document.body.appendChild(cover);
+          document.body.appendChild(cover);
 
 Don't worry , this effect is not permanent if you close your browser.The modifications disappear as soon as you close the browser or tab.`(*>﹏<*)′
