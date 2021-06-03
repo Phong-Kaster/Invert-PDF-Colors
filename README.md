@@ -44,4 +44,6 @@ Now , let us go into detail.(〃￣︶￣)人(￣︶￣〃)
 
           document.body.appendChild(cover);
 
-Don't worry , this effect is not permanent if you close your browser.The modifications disappear as soon as you close the browser or tab.`(*>﹏<*)′
+Don't worry , this effect is not permanent if you close your browser.
+
+The modifications DISAPPEAR as soon as you close the browser or tab.`(*>﹏<*)′
