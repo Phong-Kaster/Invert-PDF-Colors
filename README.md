@@ -5,7 +5,7 @@ If you fall in love with dark mode.However, you have to read a lot of PDF files 
 
 Now , let us go into detail.(〃￣︶￣)人(￣︶￣〃)
 
-1.Right-click on the PDF document.
+1.Right-click on the PDF document which you want to open.
 
 2.Go to Open with > Google Chrome.
 
