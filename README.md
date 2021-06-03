@@ -6,10 +6,15 @@ If you fall in love with dark mode.However, you have to read a lot of PDF files 
 Now , let us go into detail.（￣︶￣）↗　
 
 1.Right-click on the PDF document.
+
 2.Go to Open with > Google Chrome.
+
 3.Press SHIFT + CTRL + I to open the console.
+
 4.Make sure that you’re on the Console tab.
+
 5.Copy the following code and paste it into the console and hit Enter:
+
 
           var cover = document.createElement("div");
 
