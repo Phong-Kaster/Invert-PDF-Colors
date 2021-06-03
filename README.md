@@ -3,7 +3,7 @@ Reverse PDF background color from white to black in Chrome
 
 If you fall in love with dark mode.However, you have to read a lot of PDF files every single day and light background makes you uncomfortable.You have came right place
 
-Now , let us go into detail.（￣︶￣）↗　
+Now , let us go into detail.(〃￣︶￣)人(￣︶￣〃)
 
 1.Right-click on the PDF document.
 
