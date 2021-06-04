@@ -58,3 +58,8 @@ After :
 
 ![chrome_tamrsvF38n](https://user-images.githubusercontent.com/58034430/120745335-23cd8500-c527-11eb-8af7-14f9b050d37e.png)
 
+I don't know you and you don't know me. Probably we are not even living in the same country. We look different. We speak different languages. Maybe we are from entirely different generations. We are just complete strangers. 
+
+But there is something that connects us. We both have great taste in getting programming 
+
+Thank you for being here. God bless you, whoever you are
