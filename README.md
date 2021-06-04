@@ -47,3 +47,13 @@ Now , let us go into detail.(〃￣︶￣)人(￣︶￣〃)
 Don't worry , this effect is not permanent if you close your browser.
 
 The modifications DISAPPEAR as soon as you close the browser or tab.`(*>﹏<*)′
+
+Here it the result
+
+Before :
+
+![chrome_FnMeqJ6xQ5](https://user-images.githubusercontent.com/58034430/120745275-01d40280-c527-11eb-9cd4-a1431b5d9bde.png)
+
+After
+![chrome_tamrsvF38n](https://user-images.githubusercontent.com/58034430/120745335-23cd8500-c527-11eb-8af7-14f9b050d37e.png)
+
