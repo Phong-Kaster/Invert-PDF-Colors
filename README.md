@@ -79,7 +79,7 @@ Whenever you want to enable dark mode for PDF file. You have to comeback this to
    
 2. Find your bookmark on Google Chrome | Microsoft Edge & choose "Add page".
 
-3. With field "Name": Write whatever you want. To illustrate, "PDF Dark Mode" is chosen by me.
+3. With field "Name": Write whatever you want. To illustrate, "Dark Mode PDF" is chosen by me.
 
 4. With field "URL": Paste the script into it.
 
