@@ -87,6 +87,7 @@ Whenever you want to enable dark mode for PDF file. You have to comeback this to
 
 6. Have a coffee & enjoy your work.
 
+![image](https://user-images.githubusercontent.com/58034430/131234914-13417936-5338-407c-8573-7371ef1bcb56.png)
 
 # [**Post Script**](#post-script)
 
