@@ -1,5 +1,9 @@
-<h1 align="center"> Invert-PDF-Colors </h1>
-<h2 align="center"> Enable Dark Mode for PDF file in Google Chrome | Microsoft Edge  </h2>
+<h1 align="center"> Invert-PDF-Colors </br>
+Enable Dark Mode for PDF file in Google Chrome | Microsoft Edge  </h1>
+
+<p align="center"> 
+      <img src="./avatar/cropped-1280-640-495710.png">
+</p>
 
 # [**Table Of Content**](#table-of-content)
 
